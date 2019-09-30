@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\bin\Debug\netcoreapp2.2\EfcoreMysqlTests.deps.json
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\bin\Debug\netcoreapp2.2\EfcoreMysqlTests.runtimeconfig.json
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\bin\Debug\netcoreapp2.2\EfcoreMysqlTests.runtimeconfig.dev.json
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\bin\Debug\netcoreapp2.2\EfcoreMysqlTests.dll
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.AssemblyInfo.cs
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\bin\Debug\netcoreapp2.2\EfcoreMysqlTests.pdb
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.dll
+C:\Users\admin\source\repos\EfcoreMysqlTests\EfcoreMysqlTests\obj\Debug\netcoreapp2.2\EfcoreMysqlTests.pdb
